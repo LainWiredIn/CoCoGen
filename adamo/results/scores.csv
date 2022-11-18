@@ -1,0 +1,5 @@
+GROUP,DATA,LANG,TAG,C-BLEU,S-BLEU,METEOR,ROUGE
+adamo,basts,java,@adamo_java_cf+basts,31.38,37.64,25.59,49.9
+adamo,basts,python,@adamo_python_cf+basts,5.19,16.46,12.51,27.31
+noisy,sit,java,#NAME?,40.52,45.35,28.25,54.06
+noisy,sit,python,#NAME?,26.8,34.05,21.92,41.67
